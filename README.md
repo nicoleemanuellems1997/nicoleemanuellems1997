@@ -30,10 +30,6 @@ I'm a Computing student in the UK, and currently building my programming skills,
 
 ## 📊 GitHub Stats
 
-Nicole's GitHub Stats](https://github-stats-extended.vercel.app/api?username=nicoleemanuelle1997&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nicoleemanuelle1997&layout=compact&hide_border=true)
-
 ## 🎯 My Goals
 
 - Strengthen my Python programming skills.
