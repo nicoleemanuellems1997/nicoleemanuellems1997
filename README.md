@@ -1,16 +1,56 @@
-## Hi there 👋
 
-<!--
-**nicoleemanuellems1997/nicoleemanuellems1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm a Computing Science Student 👋
 
-Here are some ideas to get you started:
+💻 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm a Computing student in the UK, and currently building my programming skills, working on academic projects, and exploring new technologies as I grow as a developer.
+
+## 🚀 About Me
+
+- 🎓 Studying Computing Science in the United Kingdom
+- 🐍 Learning Python and software development
+- 💡 Interested in problem-solving, algorithms, and application development
+- 🛠️ Building projects to develop my practical programming skills
+- 📚 Always learning and improving my technical knowledge
+
+## 🧰 Technologies & Tools
+
+- **Languages:** Python
+- **Tools:** Visual Studio Code, Git, GitHub
+- **Currently learning:** Programming fundamentals, functions, loops, data structures, and GUI development
+
+## 📂 Featured Projects
+
+- 🧮 **Calculator App** — Developing a calculator with Python and CustomTkinter.
+- 🍔 **Food Delivery Platform** — Exploring programming paradigms and software design.
+- 📊 **VitaCheck BMI Calculator** — Building a console-based application using Python.
+
+*More projects coming soon!*
+
+## 📊 GitHub Stats
+
+Nicole's GitHub Stats](https://github-stats-extended.vercel.app/api?username=nicoleemanuelle1997&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nicoleemanuelle1997&layout=compact&hide_border=true)
+
+## 🎯 My Goals
+
+- Strengthen my Python programming skills.
+- Develop clean, readable, and maintainable code.
+- Learn new technologies and development tools.
+- Build a portfolio of practical software projects.
+- Grow as a software developer and collaborate on interesting projects.
+
+## 🤝 Let's Connect
+
+I'm always happy to learn from other developers, exchange ideas, and discover new opportunities.
+
+Thanks for visiting my profile! ⭐
+
+---
+
+*"Every expert was once a beginner."*
+
+
+
