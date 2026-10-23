@@ -4,7 +4,7 @@
 💻 Welcome to my GitHub profile!
 
 
-I'm a Computing student in the UK, and currently building my programming skills, working on academic projects, and exploring new technologies as I grow as a developer.
+I'm a Computing Science student in the UK, and currently building my programming skills, working on academic projects, and exploring new technologies.
 
 ## 🚀 About Me
 
